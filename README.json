@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "The papers and related projects"
+    },
+    {
+      "description": "Note: The tuning here only indicates whether the LLM model has been tuned.",
+      "items": [],
+      "title": "No Tuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Supervised Fine-Tuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Tutorial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Common Datasets"
+    },
+    {
+      "description": "Some open-source and effective projects can be adapted to the recommendation systems based on Chinese textual data. Especially for the individual researchers !\nHope our conclusion can help your work.",
+      "items": [],
+      "title": "Single card (RTX 3090) debuggable generative language models that support Chinese corpus"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:56.226Z",
+    "original_repository": "WLiK/LLM4Rec-Awesome-Papers",
+    "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",
+    "enhanced_repository": "enhansome/enhansome-LLM4Rec-Awesome-Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLM for Recommendation Systems with stars"
+  }
+}
