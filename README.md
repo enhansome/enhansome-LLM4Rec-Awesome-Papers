@@ -134,7 +134,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | TALLRec     | [TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation](https://arxiv.org/pdf/2305.00447)                                                                                                                             | arxiv             | 2023     | [Python](https://paperswithcode.com/paper/graph-convolutional-matrix-completion)                     | Llama-7B                |
 | GPT4Rec     | [GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation](https://arxiv.org/abs/2304.03879)                                                                                                                                  | arxiv             | 2023     | N/A                                                                                                  | GPT-2                   |
 | IDvs.MoRec  | [Where to go next for recommender systems? id-vs. modality-based recommender models revisited](https://arxiv.org/abs/2303.13835)                                                                                                                                       | SIGIR             | 2023     | [Python](https://github.com/westlake-repl/IDvs.MoRec) ⭐ 168 \| 🐛 6 \| 🌐 Python \| 📅 2025-02-02    | BERT                    |
-| GReaT       | [Language models are realistic tabular data generators](https://arxiv.org/abs/2210.06280)                                                                                                                                                                              | ICLR              | 2023     | [Python](https://github.com/kathrinse/be_great) ⭐ 365 \| 🐛 5 \| 🌐 Python \| 📅 2026-05-12          | GPT-2                   |
+| GReaT       | [Language models are realistic tabular data generators](https://arxiv.org/abs/2210.06280)                                                                                                                                                                              | ICLR              | 2023     | [Python](https://github.com/kathrinse/be_great) ⭐ 365 \| 🐛 5 \| 🌐 Python \| 📅 2026-08-16          | GPT-2                   |
 | M6-Rec      | [M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems](https://arxiv.org/pdf/2205.08084)                                                                                                                                                   | arxiv             | 2022     | N/A                                                                                                  | M6                      |
 | N/A         | [Towards understanding and mitigating unintended biases in language model-driven conversational recommendation](https://www.sciencedirect.com/science/article/pii/S0306457322002400/pdfft?md5=dd8f44cd9e65dd103177b6799a371b27\&pid=1-s2.0-S0306457322002400-main.pdf) | Inf Process Manag | 2023     | [Python](https://github.com/TinaBBB/Unintended-Bias-LMRec) ⭐ 7 \| 🐛 0 \| 🌐 Python \| 📅 2024-04-09 | BERT                    |
 | P5          | [Recommendation as language processing (rlp): A unified pretrain, personalized prompt & predict paradigm (p5)](https://arxiv.org/pdf/2203.13366)                                                                                                                       | RecSys            | 2022     | [Python](https://github.com/jeykigung/P5) ⭐ 379 \| 🐛 0 \| 🌐 Python \| 📅 2023-10-09                | T5                      |
@@ -186,14 +186,14 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,591 \| 🐛 43 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,595 \| 🐛 44 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 634 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,936 \| 🐛 6 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
-| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,988 \| 🐛 607 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,933 \| 🐛 6 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
+| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,990 \| 🐛 607 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,936 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
-| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,279 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
+| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,278 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
 
 Hope our conclusion can help your work.
 
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
