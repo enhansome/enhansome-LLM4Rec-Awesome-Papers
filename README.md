@@ -75,7 +75,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | N/A            | [Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT](https://arxiv.org/abs/2305.04518)                                                                                                                                      | arxiv     | 2023     | N/A                                                                                                                       | ChatGPT                           |
 | N/A            | [Uncovering ChatGPT's Capabilities in Recommender Systems](https://arxiv.org/pdf/2305.02182)                                                                                                                                                            | arxiv     | 2023     | [Python](https://github.com/rainym00d/LLM4RS) ⭐ 176 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2024-05-14                       | ChatGPT                           |
 | N/A            | [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149)                                                                                                                                                                  | arxiv     | 2023     | N/A                                                                                                                       | ChatGPT                           |
-| VQ-Rec         | [Learning vector-quantized item representation for transferable sequential recommenders](https://dl.acm.org/doi/abs/10.1145/3543507.3583434?casa_token=ZOrcB58exVUAAAAA:o7Uh_-GmRjeDzMIjPK8FDenJ2UekLc5kB95C73BlMpmXtSRLEHZFnLR7SxSRChItIgfLskwfiWkAQw) | ACM       | 2023     | [Python](https://github.com/rucaibox/vq-rec) ⭐ 102 \| 🐛 2 \| 🌐 Python \| 📅 2023-03-27                                  | BERT                              |
+| VQ-Rec         | [Learning vector-quantized item representation for transferable sequential recommenders](https://dl.acm.org/doi/abs/10.1145/3543507.3583434?casa_token=ZOrcB58exVUAAAAA:o7Uh_-GmRjeDzMIjPK8FDenJ2UekLc5kB95C73BlMpmXtSRLEHZFnLR7SxSRChItIgfLskwfiWkAQw) | ACM       | 2023     | [Python](https://github.com/rucaibox/vq-rec) ⭐ 103 \| 🐛 2 \| 🌐 Python \| 📅 2023-03-27                                  | BERT                              |
 | RankGPT        | [Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent](https://arxiv.org/pdf/2304.09542)                                                                                                                                  | arxiv     | 2023     | [Python](https://github.com/sunnweiwei/RankGPT) ⭐ 669 \| 🐛 5 \| 🌐 Python \| 📅 2024-03-10                               | ChatGPT/4                         |
 | GeneRec        | [Generative Recommendation: Towards Next-generation Recommender Paradigm](https://arxiv.org/pdf/2304.03516)                                                                                                                                             | arxiv     | 2023     | [Python](https://github.com/Linxyhaha/GeneRec) ⭐ 70 \| 🐛 3 \| 🌐 Python \| 📅 2023-12-26                                 | N/A                               |
 | NIR            | [Zero-Shot Next-Item Recommendation using Large Pretrained Language Models](https://arxiv.org/pdf/2304.03153)                                                                                                                                           | arxiv     | 2023     | [Python](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 \| 🐛 3 \| 🌐 Python \| 📅 2023-05-09                | GPT-3.5                           |
@@ -186,14 +186,14 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,617 \| 🐛 41 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,627 \| 🐛 40 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 631 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,932 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
-| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,986 \| 🐛 605 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
+| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,985 \| 🐛 605 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,936 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
-| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,278 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
+| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,277 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
 
 Hope our conclusion can help your work.
 
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
