@@ -653,7 +653,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21638
+                "stars": 21639
               }
             },
             {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:23.827Z",
+    "last_updated": "2026-08-24T19:49:54.164Z",
     "original_repository": "WLiK/LLM4Rec-Awesome-Papers",
     "original_repository_id": 639673870,
     "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",

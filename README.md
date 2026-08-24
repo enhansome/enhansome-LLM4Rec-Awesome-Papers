@@ -186,7 +186,7 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,638 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,639 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 631 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,932 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
