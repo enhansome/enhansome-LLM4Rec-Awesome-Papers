@@ -653,7 +653,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21639
+                "stars": 21641
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-06-27T04:05:25Z",
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40984
+                "stars": 40982
               }
             },
             {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:49:54.164Z",
+    "last_updated": "2026-08-25T06:00:39.433Z",
     "original_repository": "WLiK/LLM4Rec-Awesome-Papers",
     "original_repository_id": 639673870,
     "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",
