@@ -653,7 +653,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21641
+                "stars": 21647
               }
             },
             {
@@ -683,7 +683,7 @@
                 "last_commit": "2026-04-19T00:58:05Z",
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18932
+                "stars": 18931
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-06-27T04:05:25Z",
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40982
+                "stars": 40981
               }
             },
             {
@@ -713,7 +713,7 @@
                 "last_commit": "2023-11-26T17:48:30Z",
                 "owner": "FreedomIntelligence",
                 "repo": "LLMZoo",
-                "stars": 2936
+                "stars": 2935
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2024-10-16T11:38:59Z",
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8276
+                "stars": 8275
               }
             }
           ],
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:39.433Z",
+    "last_updated": "2026-08-25T19:50:31.732Z",
     "original_repository": "WLiK/LLM4Rec-Awesome-Papers",
     "original_repository_id": 639673870,
     "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",
