@@ -107,7 +107,7 @@
                 "last_commit": "2024-07-07T05:45:01Z",
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 498
+                "stars": 499
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2024-03-10T08:27:04Z",
                 "owner": "sunnweiwei",
                 "repo": "RankGPT",
-                "stars": 669
+                "stars": 670
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2024-10-06T11:46:10Z",
                 "owner": "westlake-repl",
                 "repo": "NineRec",
-                "stars": 112
+                "stars": 113
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21647
+                "stars": 21654
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-06-27T04:05:25Z",
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40981
+                "stars": 40983
               }
             },
             {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:50:31.732Z",
+    "last_updated": "2026-08-26T22:21:21.627Z",
     "original_repository": "WLiK/LLM4Rec-Awesome-Papers",
     "original_repository_id": 639673870,
     "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",
