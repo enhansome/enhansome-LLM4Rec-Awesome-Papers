@@ -152,7 +152,7 @@
                 "last_commit": "2023-10-11T07:30:32Z",
                 "owner": "RUCAIBox",
                 "repo": "iEvaLM-CRS",
-                "stars": 64
+                "stars": 65
               }
             },
             {
@@ -489,7 +489,7 @@
                 "last_commit": "2024-02-19T07:41:21Z",
                 "owner": "Veason-silverbullet",
                 "repo": "UniTRec",
-                "stars": 27
+                "stars": 28
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2024-10-06T11:46:10Z",
                 "owner": "westlake-repl",
                 "repo": "NineRec",
-                "stars": 113
+                "stars": 112
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21654
+                "stars": 21658
               }
             },
             {
@@ -683,7 +683,7 @@
                 "last_commit": "2026-04-19T00:58:05Z",
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18931
+                "stars": 18932
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-06-27T04:05:25Z",
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40983
+                "stars": 40982
               }
             },
             {
@@ -741,9 +741,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:21:21.627Z",
-    "original_repository": "WLiK/LLM4Rec-Awesome-Papers",
-    "original_repository_id": 639673870,
+    "last_updated": "2026-08-27T11:51:47.644Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 639673870,
+      "language": null,
+      "last_commit": "2025-03-17T11:31:02Z",
+      "owner": "WLiK",
+      "repo": "LLM4Rec-Awesome-Papers",
+      "stars": 2309
+    },
     "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",
     "enhanced_repository": "enhansome/enhansome-LLM4Rec-Awesome-Papers",
     "enhanced_repository_description": null,
