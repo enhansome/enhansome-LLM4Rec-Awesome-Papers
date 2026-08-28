@@ -17,7 +17,7 @@
                 "last_commit": "2024-09-03T03:12:41Z",
                 "owner": "anord-wang",
                 "repo": "LLM4REC",
-                "stars": 60
+                "stars": 59
               }
             },
             {
@@ -324,7 +324,7 @@
                 "last_commit": "2025-09-12T05:58:35Z",
                 "owner": "zyang1580",
                 "repo": "CoLLM",
-                "stars": 153
+                "stars": 152
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2024-09-03T03:12:41Z",
                 "owner": "anord-wang",
                 "repo": "LLM4REC",
-                "stars": 60
+                "stars": 59
               }
             },
             {
@@ -631,7 +631,7 @@
                 "last_commit": "2026-03-19T13:25:17Z",
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 292
+                "stars": 294
               }
             }
           ],
@@ -653,7 +653,7 @@
                 "last_commit": "2026-03-05T13:55:17Z",
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21658
+                "stars": 21666
               }
             },
             {
@@ -683,7 +683,7 @@
                 "last_commit": "2026-04-19T00:58:05Z",
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18932
+                "stars": 18934
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-06-27T04:05:25Z",
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40982
+                "stars": 40984
               }
             },
             {
@@ -741,7 +741,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:47.644Z",
+    "last_updated": "2026-08-28T03:37:12.130Z",
     "original_repository_info": {
       "archived": false,
       "id": 639673870,
@@ -749,7 +749,7 @@
       "last_commit": "2025-03-17T11:31:02Z",
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2309
+      "stars": 2308
     },
     "original_repository_sha": "8b04df73f6709f85b83b5dabd28db73251da2176",
     "enhanced_repository": "enhansome/enhansome-LLM4Rec-Awesome-Papers",
