@@ -1039,7 +1039,7 @@
                 "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21672,
+                "stars": 21674,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:49.564Z",
+    "last_updated": "2026-08-29T21:49:01.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
