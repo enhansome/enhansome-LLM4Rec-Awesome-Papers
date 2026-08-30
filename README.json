@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 499,
+                "stars": 500,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -249,7 +249,7 @@
                 "open_issues": 6,
                 "owner": "RUCAIBox",
                 "repo": "LLMRank",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "chatgpt",
                   "large-language-models",
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 38,
+                "open_issues": 37,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21674,
+                "stars": 21677,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18934,
+                "stars": 18933,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40983,
+                "stars": 40982,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:49:01.765Z",
+    "last_updated": "2026-08-30T21:55:46.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2308,
+      "stars": 2307,
       "topics": [
         "awesome",
         "datasets",
