@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 37,
+                "open_issues": 36,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21677,
+                "stars": 21682,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1144,7 +1144,7 @@
                 "open_issues": 26,
                 "owner": "FreedomIntelligence",
                 "repo": "LLMZoo",
-                "stars": 2935,
+                "stars": 2934,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:55:46.518Z",
+    "last_updated": "2026-08-31T23:15:03.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
