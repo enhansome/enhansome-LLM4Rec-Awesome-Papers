@@ -93,7 +93,7 @@
                 "open_issues": 8,
                 "owner": "HKUDS",
                 "repo": "RLMRec",
-                "stars": 464,
+                "stars": 463,
                 "topics": [
                   "collaborative-filtering",
                   "graph-neural-networks",
@@ -138,7 +138,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-08-22T04:06:32Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "AaronHeee",
                 "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
                 "stars": 85,
@@ -705,7 +705,7 @@
                 "open_issues": 1,
                 "owner": "rutgerswiselab",
                 "repo": "GenRec",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -768,7 +768,7 @@
                 "open_issues": 6,
                 "owner": "westlake-repl",
                 "repo": "IDvs.MoRec",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "end-to-end",
                   "foundation-models",
@@ -853,7 +853,7 @@
                 "open_issues": 0,
                 "owner": "jeykigung",
                 "repo": "P5",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1036,7 +1036,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "QwenLM",
                 "repo": "Qwen",
                 "stars": 21689,
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18935,
+                "stars": 18934,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40981,
+                "stars": 40982,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8275,
+                "stars": 8274,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:51:58.697Z",
+    "last_updated": "2026-09-02T21:53:44.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
