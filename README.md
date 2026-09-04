@@ -52,7 +52,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | RLMRec         | [Representation Learning with Large Language Models for Recommendation](https://arxiv.org/abs/2310.15950)                                                                                                                                               | WWW       | 2024     | [Python](https://github.com/HKUDS/RLMRec) ⭐ 463 \| 🐛 8 \| 🌐 Python \| 📅 2024-06-26                                     | GPT-3.5                           |
 | KP4SR          | [Knowledge Prompt-tuning for Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3612252)                                                                                                                                             | ACM       | 2023     | N/A                                                                                                                       | GPT-3.5                           |
 | RecInterpreter | [Large Language Model Can Interpret Latent Space of Sequential Recommender](https://arxiv.org/abs/2310.20487)                                                                                                                                           | arXiv     | 2023     | [Python](https://github.com/YangZhengyi98/RecInterpreter) ⭐ 25 \| 🐛 0 \| 🌐 Python \| 📅 2023-11-16                      | LLaMA-7b                          |
-| N/A            | [Large Language Models as Zero-Shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)                                                                                                                                                      | CIKM      | 2023     | [Python](https://github.com/aaronheee/llms-as-zero-shot-conversational-recsys) ⭐ 85 \| 🐛 1 \| 🌐 Python \| 📅 2023-08-22 | GPT-3.5-turbo ,GPT-4,BAIZE,Vicuna |
+| N/A            | [Large Language Models as Zero-Shot Conversational Recommenders](https://arxiv.org/abs/2308.10053)                                                                                                                                                      | CIKM      | 2023     | [Python](https://github.com/aaronheee/llms-as-zero-shot-conversational-recsys) ⭐ 86 \| 🐛 1 \| 🌐 Python \| 📅 2023-08-22 | GPT-3.5-turbo ,GPT-4,BAIZE,Vicuna |
 | Agent4Rec      | [On Generative Agents in Recommendation](https://arxiv.org/pdf/2310.10108.pdf)                                                                                                                                                                          | arxiv     | 2023     | [Python](https://github.com/LehengTHU/Agent4Rec) ⭐ 501 \| 🐛 4 \| 🌐 Python \| 📅 2024-07-07                              | GPT4                              |
 | N/A            | [Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging](https://arxiv.org/abs/2309.01026)                                                                                                                             | arxiv     | 2023     | N/A                                                                                                                       | BLIP-2+GPT4                       |
 | InteRecAgent   | [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/abs/2308.16505)                                                                                                                             | arxiv     | 2023     | N/A                                                                                                                       | GPT4                              |
@@ -186,14 +186,14 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,693 \| 🐛 42 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,695 \| 🐛 42 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 631 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,935 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
 | [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,980 \| 🐛 605 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,934 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
-| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,273 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
+| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,272 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
 
 Hope our conclusion can help your work.
 
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

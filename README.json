@@ -141,7 +141,7 @@
                 "open_issues": 1,
                 "owner": "AaronHeee",
                 "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1039,7 +1039,7 @@
                 "open_issues": 42,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21693,
+                "stars": 21695,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1165,7 +1165,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8273,
+                "stars": 8272,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:46:15.840Z",
+    "last_updated": "2026-09-04T21:35:09.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2308,
+      "stars": 2309,
       "topics": [
         "awesome",
         "datasets",
