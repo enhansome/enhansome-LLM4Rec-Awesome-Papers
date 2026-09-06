@@ -437,7 +437,7 @@
                 "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "UniCRS",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "conversation",
                   "conversational-ai",
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21699,
+                "stars": 21701,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18934,
+                "stars": 18937,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:23:03.298Z",
+    "last_updated": "2026-09-06T21:28:22.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2309,
+      "stars": 2310,
       "topics": [
         "awesome",
         "datasets",
