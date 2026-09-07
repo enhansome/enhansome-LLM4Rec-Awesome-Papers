@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "yaochenzhu",
                 "repo": "LLM4Rec",
-                "stars": 174,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -657,7 +657,7 @@
                 "open_issues": 7,
                 "owner": "SAI990323",
                 "repo": "BIGRec",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -874,7 +874,7 @@
                 "open_issues": 7,
                 "owner": "lileipisces",
                 "repo": "PEPLER",
-                "stars": 130,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -902,7 +902,7 @@
                 "open_issues": 0,
                 "owner": "LeeeeoLiu",
                 "repo": "U-NEED",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1039,7 +1039,7 @@
                 "open_issues": 42,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21701,
+                "stars": 21702,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18937,
+                "stars": 18938,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40977,
+                "stars": 40974,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8272,
+                "stars": 8271,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:28:22.170Z",
+    "last_updated": "2026-09-07T22:07:15.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
