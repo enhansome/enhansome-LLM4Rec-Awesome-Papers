@@ -178,7 +178,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | KuaiSAR       | Video              | Search and Rec   | KuaiSAR contains genuine search and recommendation behaviors of 25,877 users, 6,890,707 items, 453,667 queries, and 19,664,885 actions within a span of 19 days on the Kuaishou app                                                                                                                 | [link](https://kuaisar.github.io)                                                              |
 | Tenrec        | Video, Article     | General          | Tenrec is a large-scale benchmark dataset for recommendation systems. It contains around 5 million users and 140 million interactions.                                                                                                                                                              | [link](https://tenrec0.github.io/)                                                             |
 | NineRec       | Video, Article     | General          | NineRec is a TransRec dataset suite that includes a large-scale source domain recommendation dataset and nine diverse target domain recommendation datasets. Each item in NineRec is represented by a text description and a high-resolution cover image.                                           | [link](https://github.com/westlake-repl/NineRec) ⭐ 112 \| 🐛 5 \| 🌐 Python \| 📅 2024-10-06   |
-| MicroLens     | Video              | General          | MicroLens is a very large micro-video recommendation dataset containing one billion user-item interactions, 34 million users, and one million micro-videos. It includes various modality information about videos and serves as a benchmark for content-driven micro-video recommendation research. | [link](https://github.com/westlake-repl/MicroLens) ⭐ 296 \| 🐛 3 \| 🌐 Python \| 📅 2026-03-19 |
+| MicroLens     | Video              | General          | MicroLens is a very large micro-video recommendation dataset containing one billion user-item interactions, 34 million users, and one million micro-videos. It includes various modality information about videos and serves as a benchmark for content-driven micro-video recommendation research. | [link](https://github.com/westlake-repl/MicroLens) ⭐ 297 \| 🐛 3 \| 🌐 Python \| 📅 2026-03-19 |
 
 ### Single card (RTX 3090) debuggable generative language models that support Chinese corpus
 
@@ -186,11 +186,11 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,705 \| 🐛 43 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,710 \| 🐛 43 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 631 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,942 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
-| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,968 \| 🐛 605 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,941 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
+| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,967 \| 🐛 605 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,933 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
 | [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,269 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
