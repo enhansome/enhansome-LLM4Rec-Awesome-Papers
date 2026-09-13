@@ -923,7 +923,7 @@
                 "open_issues": 1,
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "foundation-model",
                   "image-recommendation",
@@ -1039,7 +1039,7 @@
                 "open_issues": 43,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21711,
+                "stars": 21715,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1123,7 +1123,7 @@
                 "open_issues": 604,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40968,
+                "stars": 40965,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:29:46.813Z",
+    "last_updated": "2026-09-13T21:29:31.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
