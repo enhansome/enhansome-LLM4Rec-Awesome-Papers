@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 538,
+                "stars": 537,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -93,7 +93,7 @@
                 "open_issues": 8,
                 "owner": "HKUDS",
                 "repo": "RLMRec",
-                "stars": 464,
+                "stars": 463,
                 "topics": [
                   "collaborative-filtering",
                   "graph-neural-networks",
@@ -473,7 +473,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 538,
+                "stars": 537,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -804,7 +804,7 @@
                 "open_issues": 6,
                 "owner": "tabularis-ai",
                 "repo": "be_great",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "data-generation",
                   "deep-learning",
@@ -923,7 +923,7 @@
                 "open_issues": 1,
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
-                "stars": 190,
+                "stars": 189,
                 "topics": [
                   "foundation-model",
                   "image-recommendation",
@@ -1039,7 +1039,7 @@
                 "open_issues": 42,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21721,
+                "stars": 21747,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18941,
+                "stars": 18942,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40961,
+                "stars": 40959,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:35:52.659Z",
+    "last_updated": "2026-09-15T22:20:32.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2312,
+      "stars": 2311,
       "topics": [
         "awesome",
         "datasets",
