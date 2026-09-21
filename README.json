@@ -204,7 +204,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-01T01:57:31Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "RUC-GSAI",
                 "repo": "YuLan-Rec",
                 "stars": 418,
@@ -804,7 +804,7 @@
                 "open_issues": 6,
                 "owner": "tabularis-ai",
                 "repo": "be_great",
-                "stars": 369,
+                "stars": 370,
                 "topics": [
                   "data-generation",
                   "deep-learning",
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1039,7 +1039,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21795,
+                "stars": 21807,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18940,
+                "stars": 18941,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40953,
+                "stars": 40954,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8269,
+                "stars": 8270,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:39:36.255Z",
+    "last_updated": "2026-09-21T22:38:43.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2312,
+      "stars": 2315,
       "topics": [
         "awesome",
         "datasets",
