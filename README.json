@@ -369,7 +369,7 @@
                 "open_issues": 5,
                 "owner": "sunnweiwei",
                 "repo": "RankGPT",
-                "stars": 668,
+                "stars": 667,
                 "topics": [
                   "chatgpt",
                   "information-retrieval",
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1039,7 +1039,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21807,
+                "stars": 21818,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1123,7 +1123,7 @@
                 "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40954,
+                "stars": 40951,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:38:43.940Z",
+    "last_updated": "2026-09-22T22:19:20.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2315,
+      "stars": 2317,
       "topics": [
         "awesome",
         "datasets",
