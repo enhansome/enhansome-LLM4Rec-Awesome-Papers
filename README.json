@@ -615,7 +615,7 @@
                 "open_issues": 4,
                 "owner": "Yueeeeeeee",
                 "repo": "LlamaRec",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1039,7 +1039,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21856,
+                "stars": 21863,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1144,7 +1144,7 @@
                 "open_issues": 26,
                 "owner": "FreedomIntelligence",
                 "repo": "LLMZoo",
-                "stars": 2934,
+                "stars": 2935,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:32:39.652Z",
+    "last_updated": "2026-09-26T22:00:48.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
