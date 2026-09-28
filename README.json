@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -159,7 +159,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-07T05:45:01Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
                 "stars": 502,
@@ -473,7 +473,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -573,7 +573,7 @@
                 "open_issues": 13,
                 "owner": "ljy0ustc",
                 "repo": "LLaRA",
-                "stars": 167,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -832,7 +832,7 @@
                 "open_issues": 0,
                 "owner": "TinaBBB",
                 "repo": "Unintended-Bias-LMRec",
-                "stars": 7,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -923,7 +923,7 @@
                 "open_issues": 1,
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
-                "stars": 189,
+                "stars": 188,
                 "topics": [
                   "foundation-model",
                   "image-recommendation",
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 302,
+                "stars": 304,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21865,
+                "stars": 21871,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1120,10 +1120,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-27T04:05:25Z",
-                "open_issues": 605,
+                "open_issues": 606,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40948,
+                "stars": 40945,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:22:21.637Z",
+    "last_updated": "2026-09-28T23:51:30.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2317,
+      "stars": 2316,
       "topics": [
         "awesome",
         "datasets",
