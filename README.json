@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 502,
+                "stars": 503,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "yaochenzhu",
                 "repo": "LLM4Rec",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1039,7 +1039,7 @@
                 "open_issues": 45,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21871,
+                "stars": 21881,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18938,
+                "stars": 18939,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 606,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40945,
+                "stars": 40942,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1144,7 +1144,7 @@
                 "open_issues": 26,
                 "owner": "FreedomIntelligence",
                 "repo": "LLMZoo",
-                "stars": 2934,
+                "stars": 2935,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:51:30.963Z",
+    "last_updated": "2026-09-29T23:02:49.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
