@@ -1026,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "Qwen-7B",
-              "description": "2023",
+              "description": "QwenLM/Qwen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1039,7 +1039,7 @@
                 "open_issues": 44,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21879,
+                "stars": 21880,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "YuLan-chat",
-              "description": "2023",
+              "description": "RUC-GSAI/YuLan-Chat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1077,7 +1077,7 @@
             {
               "node_type": "item",
               "title": "Chinese-LLaMA-Alpaca",
-              "description": "2023",
+              "description": "ymcui/Chinese-LLaMA-Alpaca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:05:19.417Z",
+    "last_updated": "2026-10-03T04:29:01.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2317,
+      "stars": 2318,
       "topics": [
         "awesome",
         "datasets",
