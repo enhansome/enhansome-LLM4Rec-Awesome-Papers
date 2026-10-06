@@ -804,7 +804,7 @@
                 "open_issues": 6,
                 "owner": "tabularis-ai",
                 "repo": "be_great",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "data-generation",
                   "deep-learning",
@@ -1036,7 +1036,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "QwenLM",
                 "repo": "Qwen",
                 "stars": 21890,
@@ -1123,7 +1123,7 @@
                 "open_issues": 606,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40938,
+                "stars": 40937,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:27.683Z",
+    "last_updated": "2026-10-06T23:07:18.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2320,
+      "stars": 2319,
       "topics": [
         "awesome",
         "datasets",
