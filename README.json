@@ -573,7 +573,7 @@
                 "open_issues": 13,
                 "owner": "ljy0ustc",
                 "repo": "LLaRA",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -957,7 +957,7 @@
                 "open_issues": 5,
                 "owner": "westlake-repl",
                 "repo": "NineRec",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "cross-domain-recommendation",
                   "cross-platform-recommendation",
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 44,
+                "open_issues": 41,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21903,
+                "stars": 21906,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1123,7 +1123,7 @@
                 "open_issues": 610,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40919,
+                "stars": 40917,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8267,
+                "stars": 8268,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:59:23.438Z",
+    "last_updated": "2026-10-13T01:27:42.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
