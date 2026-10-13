@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -1039,7 +1039,7 @@
                 "open_issues": 41,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21906,
+                "stars": 21911,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1123,7 +1123,7 @@
                 "open_issues": 610,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40917,
+                "stars": 40916,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:27:42.899Z",
+    "last_updated": "2026-10-13T23:19:36.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
