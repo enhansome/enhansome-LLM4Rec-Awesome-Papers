@@ -66,7 +66,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 | N/A            | [Large Language Models are Competitive Near Cold-start Recommenders for Language-and Item-based Preferences](https://arxiv.org/abs/2307.14225)                                                                                                          | RecSys    | 2023     | N/A                                                                                                                       | PaLM                              |
 | MINT           | [Large Language Model Augmented Narrative Driven Recommendations](https://arxiv.org/abs/2306.02250)                                                                                                                                                     | Recsys    | 2023     | N/A                                                                                                                       | 175B InstructGPT                  |
 | KAR            | [Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models](https://arxiv.org/abs/2306.10933)                                                                                                                            | arxiv     | 2023     | [Python](https://gitee.com/mindspore/models/tree/master/research/recommend/KAR)                                           | ChatGLM                           |
-| RecAgent       | [RecAgent: A Novel Simulation Paradigm for Recommender Systems](https://arxiv.org/pdf/2306.02552)                                                                                                                                                       | arxiv     | 2023     | [Python](https://github.com/RUC-GSAI/YuLan-Rec) ⭐ 419 \| 🐛 3 \| 🌐 Python \| 📅 2025-04-01                               | ChatGPT                           |
+| RecAgent       | [RecAgent: A Novel Simulation Paradigm for Recommender Systems](https://arxiv.org/pdf/2306.02552)                                                                                                                                                       | arxiv     | 2023     | [Python](https://github.com/RUC-GSAI/YuLan-Rec) ⭐ 420 \| 🐛 3 \| 🌐 Python \| 📅 2025-04-01                               | ChatGPT                           |
 | AnyPredict     | [AnyPredict: Foundation Model for Tabular Prediction](https://arxiv.org/abs/2305.12081)                                                                                                                                                                 | arxiv     | 2023     | N/A                                                                                                                       | ChatGPT,BioBERT                   |
 | iEvaLM         | [Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models](https://arxiv.org/pdf/2305.13112)                                                                                                                     | arxiv     | 2023     | [Python](https://github.com/rucaibox/ievalm-crs) ⭐ 65 \| 🐛 0 \| 🌐 Python \| 📅 2023-10-11                               | ChatGPT                           |
 | N/A            | [Large Language Models are Zero-Shot Rankers for Recommender Systems](https://arxiv.org/pdf/2305.08845)                                                                                                                                                 | arxiv     | 2023     | [Python](https://github.com/RUCAIBox/LLMRank) ⭐ 326 \| 🐛 6 \| 🌐 Python \| 📅 2025-05-15                                 | ChatGPT                           |
@@ -186,14 +186,14 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,925 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,926 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 632 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,929 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
-| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,912 \| 🐛 610 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,926 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
+| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,911 \| 🐛 610 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,936 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
-| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,265 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
+| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,264 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
 
 Hope our conclusion can help your work.
 
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
