@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -93,7 +93,7 @@
                 "open_issues": 8,
                 "owner": "HKUDS",
                 "repo": "RLMRec",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "collaborative-filtering",
                   "graph-neural-networks",
@@ -473,7 +473,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1039,7 +1039,7 @@
                 "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21933,
+                "stars": 21941,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1123,7 +1123,7 @@
                 "open_issues": 610,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40911,
+                "stars": 40910,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:56:10.055Z",
+    "last_updated": "2026-10-20T22:25:54.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 6,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2321,
+      "stars": 2323,
       "topics": [
         "awesome",
         "datasets",
