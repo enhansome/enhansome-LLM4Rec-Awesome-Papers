@@ -90,7 +90,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-26T19:57:38Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "HKUDS",
                 "repo": "RLMRec",
                 "stars": 464,
@@ -276,7 +276,7 @@
                 "open_issues": 1,
                 "owner": "jizhi-zhang",
                 "repo": "FaiRLLM",
-                "stars": 44,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -369,7 +369,7 @@
                 "open_issues": 5,
                 "owner": "sunnweiwei",
                 "repo": "RankGPT",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "chatgpt",
                   "information-retrieval",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "yaochenzhu",
                 "repo": "LLM4Rec",
-                "stars": 174,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 310,
+                "stars": 311,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1039,7 +1039,7 @@
                 "open_issues": 39,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21946,
+                "stars": 21947,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:23:52.030Z",
+    "last_updated": "2026-10-24T21:41:23.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
