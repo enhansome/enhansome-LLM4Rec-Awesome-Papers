@@ -89,7 +89,7 @@ Note: The tuning here only indicates whether the LLM model has been tuned.
 
 | **Name**    | **Paper**                                                                                                                                                                                                                                                              | **Venue**         | **Year** | **Code**                                                                                             | LLM                     |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------- | ---------------------------------------------------------------------------------------------------- | ----------------------- |
-| CoLLM       | [CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation](https://arxiv.org/abs/2310.19488v2)                                                                                                                                        | TKDE              | 2025     | [Python](https://github.com/zyang1580/CoLLM) ⭐ 152 \| 🐛 13 \| 🌐 Python \| 📅 2025-09-12            | llama-7B & Qwen2-1.5    |
+| CoLLM       | [CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation](https://arxiv.org/abs/2310.19488v2)                                                                                                                                        | TKDE              | 2025     | [Python](https://github.com/zyang1580/CoLLM) ⭐ 153 \| 🐛 13 \| 🌐 Python \| 📅 2025-09-12            | llama-7B & Qwen2-1.5    |
 | BinLLM      | [Text-like Encoding of Collaborative Information in Large Language Models for Recommendation](https://aclanthology.org/2024.acl-long.497/)                                                                                                                             | ACL               | 2024     | [Python](https://github.com/zyang1580/BinLLM) ⭐ 32 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-03             | llama-7B                |
 | N/A         | [Aligning Large Language Models for Controllable Recommendations](https://arxiv.org/abs/2403.05063)                                                                                                                                                                    | arXiv             | 2024     | N/A                                                                                                  | llama2                  |
 | SLIM        | [Can Small Language Models be Good Reasoners for Sequential Recommendation?](https://arxiv.org/abs/2403.04260)                                                                                                                                                         | arXiv             | 2024     | N/A                                                                                                  | ChatGPT,llama2          |
@@ -186,14 +186,14 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,970 \| 🐛 38 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 21,979 \| 🐛 39 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 632 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,922 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
-| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,898 \| 🐛 610 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,923 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
+| [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,896 \| 🐛 610 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,935 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
-| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,265 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
+| [LianjiaTech](https://github.com/LianjiaTech)/**[BELLE](https://github.com/LianjiaTech/BELLE) ⭐ 8,263 \| 🐛 106 \| 🌐 HTML \| 📅 2024-10-16**                                        | 2023 |
 
 Hope our conclusion can help your work.
 
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
