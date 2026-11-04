@@ -804,7 +804,7 @@
                 "open_issues": 6,
                 "owner": "tabularis-ai",
                 "repo": "be_great",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "data-generation",
                   "deep-learning",
@@ -1039,7 +1039,7 @@
                 "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21990,
+                "stars": 21995,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18923,
+                "stars": 18922,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1165,7 +1165,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8261,
+                "stars": 8260,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:40:36.471Z",
+    "last_updated": "2026-11-04T00:01:44.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
