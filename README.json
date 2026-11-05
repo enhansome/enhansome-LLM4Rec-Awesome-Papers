@@ -1039,7 +1039,7 @@
                 "open_issues": 38,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 21995,
+                "stars": 21993,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18922,
+                "stars": 18919,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 610,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40883,
+                "stars": 40877,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:01:44.330Z",
+    "last_updated": "2026-11-05T00:26:40.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
