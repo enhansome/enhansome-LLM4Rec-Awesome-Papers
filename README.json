@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 503,
+                "stars": 504,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -473,7 +473,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "yaochenzhu",
                 "repo": "LLM4Rec",
-                "stars": 175,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22003,
+                "stars": 22014,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18920,
+                "stars": 18918,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 610,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40874,
+                "stars": 40863,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:25:27.001Z",
+    "last_updated": "2026-11-07T22:50:14.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
