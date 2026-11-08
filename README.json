@@ -853,7 +853,7 @@
                 "open_issues": 0,
                 "owner": "jeykigung",
                 "repo": "P5",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -995,7 +995,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 313,
+                "stars": 314,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -1039,7 +1039,7 @@
                 "open_issues": 40,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22014,
+                "stars": 22018,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1120,10 +1120,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-27T04:05:25Z",
-                "open_issues": 610,
+                "open_issues": 609,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40863,
+                "stars": 40862,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:50:14.238Z",
+    "last_updated": "2026-11-08T22:58:11.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
