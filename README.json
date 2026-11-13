@@ -93,7 +93,7 @@
                 "open_issues": 10,
                 "owner": "HKUDS",
                 "repo": "RLMRec",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "collaborative-filtering",
                   "graph-neural-networks",
@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -1039,7 +1039,7 @@
                 "open_issues": 41,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22028,
+                "stars": 22030,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18916,
+                "stars": 18914,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 609,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40855,
+                "stars": 40853,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1165,7 +1165,7 @@
                 "open_issues": 105,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8262,
+                "stars": 8260,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:34:55.556Z",
+    "last_updated": "2026-11-13T00:34:26.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
