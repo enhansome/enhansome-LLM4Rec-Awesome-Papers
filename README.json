@@ -800,7 +800,7 @@
                 "id": 536614303,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-16T16:08:24Z",
+                "last_commit": "2026-11-15T20:41:05Z",
                 "open_issues": 6,
                 "owner": "tabularis-ai",
                 "repo": "be_great",
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 41,
+                "open_issues": 40,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22029,
+                "stars": 22036,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:10:11.794Z",
+    "last_updated": "2026-11-15T23:25:27.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
