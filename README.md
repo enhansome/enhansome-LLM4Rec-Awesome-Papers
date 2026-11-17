@@ -186,10 +186,10 @@ Some open-source and effective projects can be adapted to the recommendation sys
 
 | Project                                                                                                                                                                              | Year |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 22,036 \| 🐛 40 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen) ⭐ 22,049 \| 🐛 40 \| 🌐 Python \| 📅 2026-03-05                                                                                            | 2023 |
 | [baichuan-7B](https://huggingface.co/baichuan-inc/baichuan-7B)                                                                                                                       | 2023 |
 | [YuLan-chat](https://github.com/RUC-GSAI/YuLan-Chat) ⭐ 634 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-10                                                                                     | 2023 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,912 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) ⭐ 18,911 \| 🐛 5 \| 🌐 Python \| 📅 2026-04-19                                                                 | 2023 |
 | [THUDM](https://github.com/THUDM)/**[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,847 \| 🐛 609 \| 🌐 Python \| 📅 2024-06-27**                                             | 2023 |
 | [FreedomIntelligence](https://github.com/FreedomIntelligence)/**[LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) ⭐ 2,934 \| 🐛 26 \| 🌐 Python \| 📅 2023-11-26** **Phoenix** | 2023 |
 | [bloomz-7b1](https://huggingface.co/bigscience/bloomz-7b1)                                                                                                                           | 2023 |
@@ -201,4 +201,4 @@ Hope our conclusion can help your work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
