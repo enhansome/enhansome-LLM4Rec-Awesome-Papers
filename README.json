@@ -162,7 +162,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -573,7 +573,7 @@
                 "open_issues": 13,
                 "owner": "ljy0ustc",
                 "repo": "LLaRA",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22058,
+                "stars": 22061,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1067,7 +1067,7 @@
                 "open_issues": 5,
                 "owner": "RUC-GSAI",
                 "repo": "YuLan-Chat",
-                "stars": 634,
+                "stars": 633,
                 "topics": [
                   "large-language-models"
                 ]
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18915,
+                "stars": 18914,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 609,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40847,
+                "stars": 40846,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1144,7 +1144,7 @@
                 "open_issues": 26,
                 "owner": "FreedomIntelligence",
                 "repo": "LLMZoo",
-                "stars": 2934,
+                "stars": 2933,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:17:50.859Z",
+    "last_updated": "2026-11-20T01:21:01.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 7,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2332,
+      "stars": 2331,
       "topics": [
         "awesome",
         "datasets",
