@@ -63,7 +63,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -141,7 +141,7 @@
                 "open_issues": 1,
                 "owner": "AaronHeee",
                 "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -473,7 +473,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1039,7 +1039,7 @@
                 "open_issues": 40,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22061,
+                "stars": 22062,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1090,7 +1090,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18914,
+                "stars": 18915,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1123,7 +1123,7 @@
                 "open_issues": 609,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40846,
+                "stars": 40847,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:21:01.017Z",
+    "last_updated": "2026-11-21T00:52:21.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
