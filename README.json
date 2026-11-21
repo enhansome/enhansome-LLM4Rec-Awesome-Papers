@@ -93,7 +93,7 @@
                 "open_issues": 10,
                 "owner": "HKUDS",
                 "repo": "RLMRec",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "collaborative-filtering",
                   "graph-neural-networks",
@@ -1036,10 +1036,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-05T13:55:17Z",
-                "open_issues": 40,
+                "open_issues": 39,
                 "owner": "QwenLM",
                 "repo": "Qwen",
-                "stars": 22062,
+                "stars": 22066,
                 "topics": [
                   "chinese",
                   "flash-attention",
@@ -1123,7 +1123,7 @@
                 "open_issues": 609,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40847,
+                "stars": 40846,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:13.002Z"
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:52:21.271Z",
+    "last_updated": "2026-11-21T23:51:01.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
@@ -1203,7 +1203,7 @@
       "open_issues": 7,
       "owner": "WLiK",
       "repo": "LLM4Rec-Awesome-Papers",
-      "stars": 2331,
+      "stars": 2332,
       "topics": [
         "awesome",
         "datasets",
